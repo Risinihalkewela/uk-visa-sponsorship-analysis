@@ -37,6 +37,6 @@ This project analyzes **UK Home Office migration datasets** to uncover trends in
 - Power BI (DAX, dashboards, interactive visuals)
 - Power Query Editor
 
-✨ *This project demonstrates a complete end-to-end workflow: SQL data preparation → Power BI dashboards → actionable migration insights.*
+
 
 ✨ *This project demonstrates a complete end-to-end workflow: SQL data preparation → Power BI dashboards → actionable migration insights.*
